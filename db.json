@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "firstName": 1,
+      "firstName": "a",
       "lastName": "hello"
     }
   ],
