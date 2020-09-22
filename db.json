@@ -1,15 +1,11 @@
-
-
-  {
+{
   "posts": [
     {
-      "firstName": "1",
-      "lastName": "hello",
-  "email": 1,
-      "phone": "hello",
-  "password": 1,
-     
+      "id": 1,
+      "title": "hello"
     }
-    ]
+  ],
+  "profile": {
+    "name": "typicode"
   }
-
+}
