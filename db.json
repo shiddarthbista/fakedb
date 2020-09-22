@@ -3,8 +3,9 @@
     {
       "firstName": "a",
       "lastName": "hello",
-       "firstName": "a",
-      "lastName": "hello"
+       "email": "a",
+      "phone": "hello",
+       "password": "hello"
     }
   ],
   "profile": {
