@@ -1,8 +1,8 @@
 [
   {
-    id: 1,
-    styleName: "Designer Shave",
-    price: 10,
-    ect: 15
+    "id": 1,
+    "styleName": "Designer Shave",
+    "price": 10,
+    "ect": 15
   }
  ]
