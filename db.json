@@ -1,13 +1,163 @@
 {
   "posts": [
+
     {
-      "id": 1,
-      "title": "hello world"
-    },
-    {
-      "id":2,
-     "title":"hiiii"
-    }
+    "id": 1,
+    "styleName": "Designer Shave",
+    "price": 10,
+    "ect": 15
+  },
+  {
+    "id": 2,
+    "styleName": "Haircut + Shave",
+    "price": 25,
+    "ect": 35
+  },
+  {
+    "id": 3,
+    "styleName": "Haircut + taper",
+    "price": 20,
+    "ect": 30
+  },
+  {
+    "id": 4,
+    "styleName": "Drop Fade",
+    "price": 15,
+    "ect": 25
+  },
+  {
+    "id": 5,
+    "styleName": "Drop Fade + Haircut",
+    "price": 20,
+    "ect": 30
+  },
+  {
+    "id": 6,
+    "styleName": "Basic or Low Bald Fade",
+    "price": 18,
+    "ect": 20
+  },
+  {
+    "id": 7,
+    "styleName": "Dark Bald Fade",
+    "price": 20,
+    "ect": 25
+  },
+  {
+    "id": 8,
+    "styleName": "Bald Head",
+    "price": 10,
+    "ect": 20
+  },
+  {
+    "id": 9,
+    "styleName": "Bald Head + Shave",
+    "price": 10,
+    "ect": 20
+  },
+  {
+    "id": 10,
+    "styleName": "Eyebrows + Tapor",
+    "price": 20,
+    "ect": 30
+  },
+  {
+    "id": 11,
+    "styleName": "Afroe + Tapor + Shave",
+    "price": 25,
+    "ect": 40
+  },
+  {
+    "id": 12,
+    "styleName": "Waves + Taper + Shave",
+    "price": 25,
+    "ect": 40
+  },
+  {
+    "id": 13,
+    "styleName": "Drope Fade + Shave",
+    "price": 20,
+    "ect": 40
+  },
+  {
+    "id": 14,
+    "styleName": "Line and Shave",
+    "price": 15,
+    "ect": 30
+  },
+  {
+    "id": 15,
+    "styleName": "High Top Fade",
+    "price": 20,
+    "ect": 30
+  },
+  {
+    "id": 16,
+    "styleName": "Shadow Fade Dark",
+    "price": 20,
+    "ect": 30
+  },
+  {
+    "id": 17,
+    "styleName": "Haircut",
+    "price": 18,
+    "ect": 25
+  },
+  {
+    "id": 18,
+    "styleName": "Afroe(High, Medium, Low)",
+    "price": 18,
+    "ect": 30
+  },
+  {
+    "id": 19,
+    "styleName": "Afroe + Taper",
+    "price": 20,
+    "ect": 35
+  },
+  {
+    "id": 20,
+    "styleName": "Eyebrow + Neck",
+    "price": 15,
+    "ect": 20
+  },
+  {
+    "id": 21,
+    "styleName": "Eyebrow + Haircut",
+    "price": 25,
+    "ect": 30
+  },
+  {
+    "id": 22,
+    "styleName": "Mustache Trim",
+    "price": 5,
+    "ect": 15
+  },
+  {
+    "id": 23,
+    "styleName": "Taper",
+    "price": 10,
+    "ect": 15
+  },
+  {
+    "id": 24,
+    "styleName": "Taper + Shave",
+    "price": 20,
+    "ect": 25
+  },
+  {
+    "id": 25,
+    "styleName": "Basic Lining or Edging Around the Head",
+    "price": 7,
+    "ect": 10
+  },
+  {
+    "id": 26,
+    "styleName": "Eyebrow Arch",
+    "price": 10,
+    "ect": 15
+  }
+    
   ],
   "profile": {
     "name": "typicode"
