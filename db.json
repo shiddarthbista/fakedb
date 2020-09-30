@@ -1,8 +1,11 @@
-[
-  {
-    "id": 1,
-    "styleName": "Designer Shave",
-    "price": 10,
-    "ect": 15
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
- ]
+}
