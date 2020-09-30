@@ -1,15 +1,8 @@
-{
-  "posts": [
-    {
-      "id":1,
-      "firstName": "a",
-      "lastName": "hello",
-       "email": "a",
-      "phone": "hello",
-       "password": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    id: 1,
+    styleName: "Designer Shave",
+    price: 10,
+    ect: 15
   }
-}
+ ]
